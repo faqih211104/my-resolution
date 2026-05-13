@@ -5,3 +5,4 @@ Rencana pembuatan game untuk skripsi
 - game adventure
 - offline
 - UI yang menarik
+- membuat konten-konten terkait game
