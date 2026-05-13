@@ -2,7 +2,9 @@ Rencana pembuatan game untuk skripsi
 
 *Menggunakan Unity
 - game mobile
+ *tentang balap/adventure
 - game adventure
-- offline
+- offline/ online
 - UI yang menarik
 - membuat konten-konten terkait game
+ * buat konten terkait pembuatan game
