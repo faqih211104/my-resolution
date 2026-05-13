@@ -1,5 +1,6 @@
 Rencana pembuatan game untuk skripsi
 
+*Menggunakan Unity
 - game mobile
 - game adventure
 - offline
